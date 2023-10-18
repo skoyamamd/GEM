@@ -40,14 +40,14 @@
 #include <boost/format.hpp>
 #include "zlib.h"
 
-#include <Eigen/Sparse>
-#include <Eigen/SparseLU>
-#include <Eigen/SparseCholesky>
-#include <Eigen/SparseCore>
-#include <Eigen/IterativeLinearSolvers>	
-#include <Eigen/SparseQR>
-#include <Eigen/Dense>
-#include <Eigen/Core>
+#include <eigen3/Eigen/Sparse>
+#include <eigen3/Eigen/SparseLU>
+#include <eigen3/Eigen/SparseCholesky>
+#include <eigen3/Eigen/SparseCore>
+#include <eigen3/Eigen/IterativeLinearSolvers>	
+#include <eigen3/Eigen/SparseQR>
+#include <eigen3/Eigen/Dense>
+#include <eigen3/Eigen/Core>
 
 using std::string;
 using std::vector;
